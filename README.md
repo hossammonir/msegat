@@ -38,7 +38,7 @@ MSEGAT_USERNAME="Your Msegat Account Username"
 MSEGAT_API_KEY="Your API Key"
 ```
 
-<p>You can get your api Key from this URL [MSEGAT](https://www.msegat.com/index.php?action=548), after successful login.</p>
+<You can get your api Key from this URL [MSEGAT](https://www.msegat.com/index.php?action=548), after successful login.
 
 <br /><br /><br />
 ### Usage
