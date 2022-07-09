@@ -19,7 +19,7 @@ The leading SMS providers in Saudi Arabia, Maximize your reach with reliable del
 composer require hossammonir/msegat
 ```
 
-<p>Publish respostiry configtations</p>
+<p>Publish repository configurations</p>
 
 ```bash
 php artisan vendor:publish --provider="HossamMonir\Msegat\MsegatServiceProvider"
@@ -30,7 +30,7 @@ php artisan vendor:publish --provider="HossamMonir\Msegat\MsegatServiceProvider"
 <br /><br />
 #### Prepare Environment
 
-<p>Add the following configration to **.env** file .</p>
+Add the following configration to **.env** file .
 
 ```bash
 MSEGAT_DEFAULT_SENDER="Type your default sender name"
