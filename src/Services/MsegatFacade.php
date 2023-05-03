@@ -41,7 +41,7 @@ class MsegatFacade
      */
     public function sendWithDefaultSender(): JsonResponse
     {
-        return (new MsegatSending(['userSender' => config('services.msegat.sender')]))
+        return (new MsegatSending(['userSender' => config('msegat.config.sender')]))
             ->numbers($this->numbers)
             ->message($this->message)
             ->send();
